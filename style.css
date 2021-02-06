@@ -19,6 +19,7 @@ body {
 
 .nav-bar-menu {
     display: flex;
+    align-items: center;
     line-height: 1;
     list-style-type: none;
     margin: 0;
@@ -28,7 +29,7 @@ body {
     padding: 10px 5px;
     font-weight: bold;
     color: #06FDD0;
-    font-family: 'Jua', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
 }
 
 .nav-bar-item a {
@@ -38,7 +39,7 @@ body {
 
 .navbar-left {
     font-size: xx-large;
-    font-family: 'Jua', sans-serif;
+    font-family: 'Londrina Solid', cursive;
 }
 
 /* Neon experimental code: */
