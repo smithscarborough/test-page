@@ -171,7 +171,7 @@ a:hover {
     position: fixed;
     animation-name: particleAnimation;
     animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 1;
     animation-duration: 2.2s;
     animation-delay: 2s;
     top: 35%;
